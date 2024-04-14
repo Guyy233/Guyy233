@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guyy233
-- 👀 I’m interested in ee/ce ^_^
+- 👀 I’m interested in ce ^_^
 - 🌱 I’m currently learning swift！
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Plz starred my project if you feel it is useful!!
 - 📫 How to reach me 2839646g@student.gla.ac.uk
 
 <!---
