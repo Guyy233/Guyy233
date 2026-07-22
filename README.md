@@ -2,7 +2,7 @@
 - 👀 I’m interested in ce ^_^
 - 🌱 I’m currently in ZJU!
 - 💞️ Plz starred my project if you feel it is useful!!
-- 📫 How to reach me 222660486@zju.edu.cn！
+- 📫 How to reach me 22660486@zju.edu.cn！
 
 <!---
 Guyy233/Guyy233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
