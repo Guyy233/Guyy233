@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guyy233
-- 👀 I’m interested in ce ^_^
+- 👀 I’m interested in work related to *Communications Engineering / Large Models / Control and Systems / Reinforcement Learning * … ^_^
 - 🌱 I’m currently in ZJU!
 - 💞️ Plz starred my project if you feel it is useful!!
 - 📫 How to reach me 22660486@zju.edu.cn！
